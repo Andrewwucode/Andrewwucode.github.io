@@ -8,7 +8,7 @@ _Business Analytics graduate student with a background in Computer Science._
 
 ## About Me
 
-I am currently pursuing my **M.S. in Business Analytics at California State University San Marcos**. Outside of school, I enjoy learning new things, traveliong, going to the gym, playing `Dota 2`, and trying different sushi spots.
+I am currently pursuing my **M.S. in Business Analytics at California State University San Marcos**. Outside of school, I enjoy learning new things, traveling, going to the gym, playing `Dota 2`, and trying different sushi spots.
 
 ## Education
 
@@ -39,13 +39,13 @@ _Graduated May 2025_
 - Built an IoT smart water filter using an `ESP32`, pH sensor, and turbidity sensor
 - Developed a `Flask` backend hosted on AWS EC2 to process water-quality data
 - Created a system to classify water quality and determine when the filter should be replaced
-- Integrated automated alerts to provide real-time water-quality updates via What's App
+- Integrated automated alerts to provide real-time water-quality updates via WhatsApp
 
 ### Baby Monitor
 
 - Built a smart baby monitoring system using a microcontroller and sensors
 - Developed software to monitor sensor data and detect baby sounds
-- Alerted users via whats app if the noise reached a certain decibal through AWS
+- Used AWS to process sound data and send WhatsApp alerts when noise reached a specified decibel threshold
 
 ## Technical Skills
 
