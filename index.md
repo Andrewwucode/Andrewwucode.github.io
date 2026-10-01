@@ -25,7 +25,7 @@ _Graduated May 2025_
 **Software Engineer**
 
 - Developed features using `Flutter` and `Dart`
-- Worked with technologies including Firebase, Supabase and LiveKit
+- Worked with technologies including Firebase, Supabase, and LiveKit
 - Collaborated on the development and improvement of the Hive platform
 
 ## Notable Projects
@@ -33,7 +33,7 @@ _Graduated May 2025_
 ### Smart Water Filter
 
 - Built an IoT smart water filter using an `ESP32`, pH sensor, and turbidity sensor
-- Developed a `Flask` backend hosted on AWS EC2 to process water-quality data
+- Developed a `Flask` backend on AWS EC2 to process water-quality data
 - Created a system to alert users when the filter needs to be replaced
 - Integrated automated alerts to provide real-time water-quality updates via WhatsApp
 
