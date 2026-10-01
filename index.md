@@ -28,7 +28,7 @@ _Graduated May 2025_
 
 **Software Engineer**
 
-- Developed and supported application features using `Flutter` and `Dart`
+- Developed features using `Flutter` and `Dart`
 - Worked with technologies including Firebase, Supabase, LiveKit, and Twilio
 - Collaborated on the development and improvement of the Hive platform
 
@@ -38,7 +38,7 @@ _Graduated May 2025_
 
 - Built an IoT smart water filter using an `ESP32`, pH sensor, and turbidity sensor
 - Developed a `Flask` backend hosted on AWS EC2 to process water-quality data
-- Created a system to classify water quality and determine when the filter should be replaced
+- Created a system to alert users when the filter needs be replaced
 - Integrated automated alerts to provide real-time water-quality updates via WhatsApp
 
 ### Baby Monitor
@@ -49,10 +49,10 @@ _Graduated May 2025_
 
 ## Technical Skills
 
-- **Programming:** Python, SQL, R, JavaScript, Java, C++, Dart
-- **Data Analytics:** Pandas, NumPy, Scikit-learn, Excel, Power BI
+- **Programming:** Python, SQL, R, JavaScript, Java, C++
+- **Data Analytics:** Pandas, NumPy, Excel, Power BI
 - **Development:** React, Node.js, Flask, Flutter
-- **Tools & Platforms:** Git, GitHub, Docker, AWS, Firebase, Supabase
+- **Tools & Platforms:** Git, GitHub, AWS, Firebase, Supabase
 
 ## Links
 
