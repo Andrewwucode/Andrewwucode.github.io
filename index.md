@@ -2,11 +2,7 @@
 layout: default
 ---
 
-# Andrew Wu
-
-_Business Analytics graduate student with a background in Computer Science._
-
-## About Me
+# About Me
 
 I am currently pursuing my **M.S. in Business Analytics at California State University San Marcos**. Outside of school, I enjoy learning new things, traveling, going to the gym, playing `Dota 2`, and trying different sushi spots.
 
