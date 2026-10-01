@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-I am currently pursuing my **M.S. in Business Analytics at California State University San Marcos**. Outside of school, I love learning new things, traveling, going to the gym, playing `Dota 2`, and trying different sushi spots.
+I am currently pursuing my **M.S. in Business Analytics at California State University San Marcos**. Outside of school, I love learning new things, cooking, traveling, going to the gym, playing `Dota 2`, and trying different sushi spots.
 
 ## Education
 
@@ -25,7 +25,7 @@ _Graduated May 2025_
 **Software Engineer**
 
 - Developed features using `Flutter` and `Dart`
-- Worked with technologies including Firebase, Supabase, LiveKit, and Twilio
+- Worked with technologies including Firebase, Supabase and LiveKit
 - Collaborated on the development and improvement of the Hive platform
 
 ## Notable Projects
@@ -34,7 +34,7 @@ _Graduated May 2025_
 
 - Built an IoT smart water filter using an `ESP32`, pH sensor, and turbidity sensor
 - Developed a `Flask` backend hosted on AWS EC2 to process water-quality data
-- Created a system to alert users when the filter needs be replaced
+- Created a system to alert users when the filter needs to be replaced
 - Integrated automated alerts to provide real-time water-quality updates via WhatsApp
 
 ### Baby Monitor
