@@ -7,11 +7,11 @@ title: How to Create a GitHub Pages E-Portfolio
 
 ## Introduction
 
-This tutorial explains how I created my e-portfolio using GitHub Pages and the Jekyll Minimal theme for Milestone I. I will go through the steps I followed, the tools I used, and the changes I made to customize the website. My goal was to create an e-portfolio that showcases my educational background, work experience, technical skills, and projects to potential employers.
+This tutorial explains how I created my e-portfolio for Milestone I using GitHub Pages and the Jekyll Minimal theme. I followed the assignment instructions and will explain the steps I took, the tools I used, and the changes I made to customize my website. My goal was to create an e-portfolio that showcases my educational background, work experience, technical skills, and projects to potential employers.
 
 ## Step 1: Creating a GitHub Repository
 
-I already had a GitHub account, so I did not need to create a new one. The first thing I did was click the plus sign in the upper-right corner of GitHub and select **New repository**. I named my repository `Andrewwucode.github.io` by replacing `username` in the required `username.github.io` format with my GitHub username. I made the repository public so that GitHub Pages could host my e-portfolio.
+I already had a GitHub account, so I did not need to create a new one. The first thing I did was click the plus sign in the upper-right corner of GitHub and select _New repository_. I named my repository `Andrewwucode.github.io` by replacing `username` in the required `username.github.io` format with my GitHub username. I made the repository public so that GitHub Pages could host my e-portfolio.
 
 ## Step 2: GitHub Desktop
 
@@ -19,17 +19,17 @@ Next, I installed [GitHub Desktop](https://desktop.github.com/). I chose to use 
 
 ## Step 3: Downloading the Minimal Theme
 
-I downloaded the [Jekyll Minimal theme](https://github.com/pages-themes/minimal) from GitHub. I clicked **Code**, selected **Download ZIP**, and extracted the downloaded files. I then copied the theme files into my `Andrewwucode.github.io` repository folder. I chose the Minimal theme because it provides a simple and organized layout that allows visitors to focus on my background and projects.
+I downloaded the [Jekyll Minimal theme](https://github.com/pages-themes/minimal) from GitHub. I clicked _Code_, selected _Download ZIP_, and extracted the downloaded files. I then copied the theme files into my `Andrewwucode.github.io` repository folder. I chose the Minimal theme because it provides a simple and organized layout that allows visitors to focus on my background and projects.
 
 ## Step 4: Visual Studio Code
 
-I already had [Visual Studio Code](https://code.visualstudio.com/) installed, so I did not need to download it again. I opened VS Code and selected **File > Open Folder** to open my `Andrewwucode.github.io` repository. This allowed me to edit the files from the Minimal theme, including `_config.yml` and `index.md`.
+I already had [Visual Studio Code](https://code.visualstudio.com/) installed, so I did not need to download it again. I opened VS Code and selected _File > Open Folder_ to open my `Andrewwucode.github.io` repository. This allowed me to edit the files from the Minimal theme, including `_config.yml` and `index.md`.
 
 ## Step 5: Customizing the Minimal Theme
 
 After opening the repository in VS Code, I started modifying the existing files to personalize my e-portfolio.
 
-### Step 6: Editing `_config.yml`
+## Step 6: Editing `_config.yml`
 
 The `_config.yml` file controls several settings for the website, including the title, profile picture, description, and theme. I used the following configuration:
 
@@ -46,7 +46,7 @@ I changed the `title` to my name because the website is my personal e-portfolio.
 
 ![Customized Profile](../assets/profile.png)
 
-### Step 7: Editing `index.md`
+## Step 7: Editing `index.md`
 
 The `index.md` file contains the main content of my e-portfolio. I used Markdown headings, paragraphs, bullet points, and links to organize the information. I included the following at the beginning of the file to use the theme's default layout:
 
@@ -95,11 +95,11 @@ Finally, I included links to my GitHub and LinkedIn profiles so that visitors co
 To publish my e-portfolio, I used GitHub Pages.
 
 1. I opened my `Andrewwucode.github.io` repository on GitHub
-2. I clicked Settings
-3. I selected Pages
-4. Under Build and deployment, I selected Deploy from a branch
+2. I clicked _Settings_
+3. I selected _Pages_
+4. Under _Build and deployment_, I selected _Deploy from a branch_
 5. I selected the `main` branch and `/ (root)` folder
-6. I clicked Save
+6. I clicked _Save_
 
 This allowed GitHub Pages to publish my website using the files in my repository.
 
@@ -107,7 +107,7 @@ This allowed GitHub Pages to publish my website using the files in my repository
 
 ## Step 9: Publishing My Changes
 
-After editing my website files in Visual Studio Code, I saved my changes and opened GitHub Desktop. I reviewed the modified files, entered a commit message, and clicked commit to main. Then I clicked push origin to upload the changes to GitHub. Once GitHub Pages finished deploying the updated files, I opened my website, `Andrewwucode.github.io`, to see if the changes had been applied. Sometimes, it took a few minutes for the website to update. I would check whether the changes looked the way I wanted. If they didn't, I would go back into the files and modify them again.
+After editing my website files in Visual Studio Code, I saved my changes and opened GitHub Desktop. I reviewed the modified files, entered a commit message, and clicked _Commit to main_. Then I clicked _Push origin_ to upload the changes to GitHub. Once GitHub Pages finished deploying the updated files, I opened my website, `Andrewwucode.github.io`, to see if the changes had been applied. Sometimes, it took a few minutes for the website to update. I would check whether the changes looked the way I wanted. If they didn't, I would go back into the files and modify them again.
 
 ## Resources
 
