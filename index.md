@@ -50,6 +50,10 @@ _Graduated May 2025_
 - **Development:** React, Node.js, Flask, Flutter
 - **Tools & Platforms:** Git, GitHub, AWS, Firebase, Supabase
 
+## Projects
+
+- [How I Created My GitHub Pages E-Portfolio](portfolio_guide/)
+
 ## Links
 
 - [GitHub](https://github.com/Andrewwucode)
