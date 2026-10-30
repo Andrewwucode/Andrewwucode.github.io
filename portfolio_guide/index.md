@@ -31,7 +31,7 @@ After opening the repository in VS Code, I started modifying the existing files 
 
 ## Step 6: Editing `_config.yml`
 
-The `_config.yml` file controls several settings for the website, including the title, profile picture, description, and theme. I used the following configuration:
+The `_config.yml` file controls several settings for the website, including the title, profile picture, description, and theme. The following screenshot shows the original configuration before I made my changes.
 
 ![Original Minimal Theme Configuration](/assets/img/config.png)
 
@@ -59,11 +59,11 @@ For my Work Experience section, I wanted to include relevant experience because 
 
 I created a Notable Projects section to showcase projects I completed during my Computer Science degree. I wanted potential employers to see examples of my technical abilities beyond what I listed in my resume.
 
-#### Smart Water Filter
+### Smart Water Filter
 
 I included my Smart Water Filter project because it was one of my favorite projects from my Internet of Things (IoT) class. For this project, I worked with microcontrollers, circuit boards, wires, and sensors. I also learned how to solder and used AWS to support the system. This was one of my first experiences building an IoT device on my own, which made the project particularly meaningful to me.
 
-#### Baby Monitor
+### Baby Monitor
 
 I also included my Baby Monitor project from my wireless class. Similar to my Smart Water Filter project, I built an IoT system using a microcontroller and sensors. The system monitored sounds and could send alerts using AWS and WhatsApp. I was proud of how this project turned out, so I wanted to include it as another example of my hands-on experience.
 
