@@ -33,14 +33,7 @@ After opening the repository in VS Code, I started modifying the existing files 
 
 The `_config.yml` file controls several settings for the website, including the title, profile picture, description, and theme. I used the following configuration:
 
-```yaml
-title: Andrew Wu
-logo: /assets/img/pic.png
-description: M.S. Business Analytics Student | B.S. Computer Science
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-minimal
-```
+![Original Minimal Theme Configuration](/assets/img/config.png)
 
 I changed the `title` to my name because the website is my personal e-portfolio. I used `logo` to display my profile picture, which I saved as `pic.png` in the `assets/img` folder. I wanted visitors to be able to put a face to my name. I changed the `description` to show my educational background, including my current master's degree in Business Analytics and my bachelor's degree in Computer Science. I set `show_downloads` to `false` because I did not want the download buttons to appear underneath my profile information. I left `google_analytics` blank because I was not using Google Analytics. Finally, I used `theme: jekyll-theme-minimal` to specify the theme for my website.
 
