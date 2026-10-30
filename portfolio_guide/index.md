@@ -44,7 +44,7 @@ theme: jekyll-theme-minimal
 
 I changed the `title` to my name because the website is my personal e-portfolio. I used `logo` to display my profile picture, which I saved as `pic.png` in the `assets/img` folder. I wanted visitors to be able to put a face to my name. I changed the `description` to show my educational background, including my current master's degree in Business Analytics and my bachelor's degree in Computer Science. I set `show_downloads` to `false` because I did not want the download buttons to appear underneath my profile information. I left `google_analytics` blank because I was not using Google Analytics. Finally, I used `theme: jekyll-theme-minimal` to specify the theme for my website.
 
-![Customized Profile](../assets/profile.png)
+![Customized Profile](/assets/img/profile.png)
 
 ## Step 7: Editing `index.md`
 
@@ -88,7 +88,7 @@ I added a Technical Skills section to show potential employers the programming l
 
 Finally, I included links to my GitHub and LinkedIn profiles so that visitors could learn more about my projects and professional background.
 
-![Completed E-Portfolio](../assets/profile2.png)
+![Completed E-Portfolio](/assets/img/profile2.png)
 
 ## Step 8: Configuring GitHub Pages
 
@@ -103,7 +103,7 @@ To publish my e-portfolio, I used GitHub Pages.
 
 This allowed GitHub Pages to publish my website using the files in my repository.
 
-![GitHub Pages Configuration](../assets/pages.png)
+![GitHub Pages Configuration](/assets/img/pages.png)
 
 ## Step 9: Publishing My Changes
 
