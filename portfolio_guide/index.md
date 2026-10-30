@@ -48,13 +48,7 @@ I changed the `title` to my name because the website is my personal e-portfolio.
 
 ## Step 7: Editing `index.md`
 
-The `index.md` file contains the main content of my e-portfolio. I used Markdown headings, paragraphs, bullet points, and links to organize the information. I included the following at the beginning of the file to use the theme's default layout:
-
-```yaml
----
-layout: default
----
-```
+The `index.md` file contains the main content of my e-portfolio. I used Markdown headings, paragraphs, bullet points, and links to organize the information.
 
 ### About Me
 
