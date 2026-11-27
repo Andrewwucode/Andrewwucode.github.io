@@ -9,6 +9,12 @@ title: OM 620 - Inventory Analysis and Safety Stock
 
 The objective of these assignments is to investigate safety stock. Assignments 1 and 2 build upon each other to analyze historical inventory transactions to better understand demand and inventory requirements. Assignment 1 investigates this by using data cleaning and data aggregation. Assignment 2 uses statistical analysis. Our results can help management make informed decisions about when to increase or reduce inventory levels.
 
+### Project Repository
+
+[View GitHub Repository](https://github.com/Andrewwucode/620_assignments)
+
+[Download Dataset and Source Code](https://github.com/Andrewwucode/620_assignments/archive/refs/heads/main.zip)
+
 ### How to Run The Source Code
 
 1. Download or clone the repository
