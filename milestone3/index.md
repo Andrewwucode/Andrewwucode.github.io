@@ -7,7 +7,7 @@ title: OM 620 - Inventory Analysis and Safety Stock
 
 ## Project Overview
 
-Assignment 1 and 2 build upon each to analyze historical inventory transactions to better understand demand and inventory requirements through data cleaning, data aggregation, and statistical analysis. Our results can help management make informed decisions about when to increase or reduce inventory levels.
+Assignments 1 and 2 build upon each other to analyze historical inventory transactions to better understand demand and inventory requirements through data cleaning, data aggregation, and statistical analysis. Our results can help management make informed decisions about when to increase or reduce inventory levels.
 
 ### How to Run The Source Code
 
@@ -22,7 +22,7 @@ The meta_data.csv file provides a brief explanation of the features found in the
 
 ### transaction_data.csv
 
-Each row in the transaction_data.csv file represents an individual inventory transaction. The dataset contains 742,817 transactions and 9 features.
+Each row in the transaction_data.csv file represents an individual inventory transaction. The dataset contains 742,817 transactions and 9 different features.
 
 ### Assignment 1
 
