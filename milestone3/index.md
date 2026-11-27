@@ -26,11 +26,11 @@ Each row in the transaction_data.csv file represents an individual inventory tra
 
 ### Assignment 1
 
-The focus of assignment 1 was to standardizing features, identifying potential outliers, checking for incorrect negative values, and determining how to handle duplicate records. Assignment 1 required us to use our judgment on what to do with duplicate values and how to handle missing values. Question 5 required us to apply data aggregation, calculate sales values, and identify the transactions with the highest and lowest order quantities and sales values.
+The focus of Assignment 1 was to standardize features, identify potential outliers, check for incorrect negative values, and determine how to handle duplicate records. Assignment 1 required us to use our judgment on what to do with duplicate values and how to handle missing values. The last question required us to apply data aggregation, calculate sales values, and identify the transactions with the highest and lowest order quantities and sales values.
 
 ### Assignment 2
 
-The main focus of assignment 2 was to find the minimum, maximum, mean, median, variance, standard deviation, and average lead time for each SKU. The safety stock was calculated at 75%, 90%, and 95% service levels. Assignment 2 identifies the highest, lowest, and average safety stock values at the 95% service level.
+The main focus of Assignment 2 was to find the minimum, maximum, mean, median, variance, standard deviation, and average lead time for each SKU. Safety stock was calculated at 75%, 90%, and 95% service levels. Assignment 2 identified the highest, lowest, and average safety stock values at the 95% service level.
 
 ### Key Findings
 
@@ -48,6 +48,4 @@ The main focus of assignment 2 was to find the minimum, maximum, mean, median, v
 
 - Python
 - Pandas
-- NumPy
 - SciPy
-- Jupyter Notebook
