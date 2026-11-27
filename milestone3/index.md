@@ -7,12 +7,14 @@ title: OM 620 - Inventory Analysis and Safety Stock
 
 ## Project Overview
 
-The objective of these assignments is to calculate safety stock. Assignments 1 and 2 build upon each other to analyze historical inventory transactions to better understand demand and inventory requirements through data cleaning, data aggregation, and statistical analysis. Our results can help management make informed decisions about when to increase or reduce inventory levels.
+The objective of these assignments is to investigate safety stock. Assignments 1 and 2 build upon each other to analyze historical inventory transactions to better understand demand and inventory requirements through data cleaning, data aggregation, and statistical analysis. Our results can help management make informed decisions about when to increase or reduce inventory levels.
 
 ### How to Run The Source Code
 
 1. Download or clone the repository
-2. Install the required Python libraries
+2. Use Visual Studio Code
+3. Install the required Python libraries
+4. Run all files
 
 ### meta_data.csv
 
