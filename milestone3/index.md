@@ -7,7 +7,7 @@ title: OM 620 - Inventory Analysis and Safety Stock
 
 ## Project Overview
 
-The purpose of these assignments is to analyze historical inventory transactions to better understand demand and inventory requirements through data cleaning, data aggregation, and statistical analysis. Our results can help management make informed decisions about when to increase or reduce inventory levels.
+Assignment 1 and 2 build upon each to analyze historical inventory transactions to better understand demand and inventory requirements through data cleaning, data aggregation, and statistical analysis. Our results can help management make informed decisions about when to increase or reduce inventory levels.
 
 ### How to Run The Source Code
 
