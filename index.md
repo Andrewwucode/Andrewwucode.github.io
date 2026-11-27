@@ -53,6 +53,7 @@ _Graduated May 2025_
 ## Projects
 
 - [How I Created My GitHub Pages E-Portfolio](portfolio_guide/)
+- [OM 620 - Inventory Analysis and Safety Stock](./milestone3/)
 
 ## Links
 
